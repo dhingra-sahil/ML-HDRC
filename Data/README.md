@@ -1,10 +1,28 @@
+# Filesystem
+
+```
+Data
+├── application_test.csv
+├── application_train.csv
+├── bureau_balance.csv
+├── bureau.csv
+├── credit_card_balance.csv
+├── HomeCredit_columns_description.csv
+├── home_credit.png
+├── installments_payments.csv
+├── POS_CASH_balance.csv
+├── previous_application.csv
+├── README.md
+└── sample_submission.csv
+```
+
 # Relational Diagram
 
 <img title="Home Credit Data Tables" alt="Normalization Chart" src="home_credit.png">
 
 ---
 
-# Table Descriptions
+# `HomeCredit_columns_description.csv`
 
 |     | Table                         | Row                          | Description                                                                                                                                                                                                                                                                            | Special                               | 
 |-----|-------------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------| 
