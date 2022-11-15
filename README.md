@@ -10,10 +10,10 @@ Place the data in the main directory such that the csv files are located at `/AM
 
 | Phase | Leader |
 |-------|:------:|
-| 1     | *Mark???*    |
-| 2     | ???    |
-| 3     | ???    |
-| 4     | ???    |
+| 1     | Mark  |
+| 2     | Kunal   |
+| 3     | Pragat    |
+| 4     | Sahil |
 
 
 
