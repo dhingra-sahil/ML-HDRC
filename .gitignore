@@ -1,4 +1,5 @@
 /Data/*.csv
+/Data/*.csv#
 /Phase1/.ipynb_checkpoints
 /Phase1/0ld/
 /Phase2/.DS_Store
